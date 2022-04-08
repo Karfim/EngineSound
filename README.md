@@ -16,9 +16,9 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 
 ### Sample-based method
 
+<iframe width="100%" height="300" scrilling="no" frameborder="no" allow="autoplay" src="https://user-images.githubusercontent.com/30238824/162547563-9a8f9688-6d99-456f-9af9-daf944b1fb77.mp4"></iframe>
 
 
-https://user-images.githubusercontent.com/30238824/162547563-9a8f9688-6d99-456f-9af9-daf944b1fb77.mp4
 
 
 
