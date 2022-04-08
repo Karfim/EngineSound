@@ -16,4 +16,4 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 
 ### Sample-based method
 
-![test](results/y.wav)
+![test](results/y.mp4)
