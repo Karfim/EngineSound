@@ -6,9 +6,9 @@ This is the repository providing the synthesized engine sound for comparison. In
 ## Brief introduction
 
 Our method includes a sample-based method, a procedural method, and a hybrid method combining the sample-based and procedural methods. 
-* Sample-based method: We choose a 1-second signal of idle engine sound for synthesis. The signal is first pitch-shifted by the ratio between current RPM and the idle RPM. Next, we compute the STFT of this pitch-shifted signal. Finally, the STFT is converted to signal again and summed up with previous signal with overlap-and-add. The step of signal$\rightarrow$STFT$\rightarrow$signal is to smooth the signal and remove the clicking between each frame.
+* Sample-based method: We choose a 1-second signal of idle engine sound for synthesis. The signal is first pitch-shifted by the ratio between current RPM and the idle RPM. Next, we compute the STFT of this pitch-shifted signal. Finally, the STFT is converted to signal again and summed up with previous signal with overlap-and-add. The step of signal$$STFT$\rightarrow$signal is to smooth the signal and remove the clicking between each frame.
 
-	\overrightarrow{AB}
+	<img src="https://render.githubusercontent.com/render/math?math=\rightarrow">
 
 * Procedural method
 * hybrid method
