@@ -1,7 +1,3 @@
-# EngineSound
+# Real-time Automotive Engine Sound Simulation with Deep Neural Network
 
-This is the synthesized engine sound for paper Realtime Automotive Engine Sound Synthesis with Stacked Recurrent Neural Network.
-
-Folder MechanicalSound includes the mechanical sound synthesized by basic RNN and mix RNN. We also provide the original mechanical sound for comparison.
-
-Folder MechanicalCombustionSound includes the mechanical + combustion sound, and the original sound is also provided for comparison.
+This is the repository that providing the synthesized engine sound for comparison. In addition, the database and the code will also be released in the future. 
