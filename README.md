@@ -17,3 +17,7 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 ### Sample-based method
 
 ![test](results/y.mp4)
+
+
+https://user-images.githubusercontent.com/30238824/162547523-80edd8fc-3e6a-4752-bbf5-2d55314b507b.mp4
+
