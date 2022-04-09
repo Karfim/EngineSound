@@ -34,3 +34,26 @@ And the spectrogram of the sample-based engine sound and the orignal engine soun
 
 ![](results/sample_based.png)
 
+### Procedural method
+
+The engine sound synthesized by procedural method is:
+
+https://user-images.githubusercontent.com/30238824/162549919-d95b1d52-a6be-4b7c-8eaa-dd1378201b94.mp4
+
+And the spectrogram of the procedural engine sound and the orignal engine sound are: 
+
+![](results/procedural.png)
+
+### Hybrid method
+
+The engine sound synthesized by hybrid method is:
+
+https://user-images.githubusercontent.com/30238824/162549960-28eff0cc-0b9b-4818-9f50-821ada344efa.mp4
+
+And the spectrogram of the hybrid engine sound and the orignal engine sound are: 
+
+![](results/hybrid.png)
+
+## Conclusion
+
+By comparing these engine sounds, we can notice that the engine sound from sample-based method does not contain the 
