@@ -9,14 +9,14 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 * Sample-based method: We choose a 1-second signal of idle engine sound for synthesis. The signal is first pitch-shifted by the ratio between current RPM and the idle RPM. Next, we compute the FFT of this pitch-shifted signal. Finally, the FFT is converted to signal again and summed up with previous signal with overlap-and-add. The step of signal&rarr;FFT&rarr;signal is to smooth the signal and remove the clicking between each frame.
 
 * Procedural method: We employ a simple neural network to predict the amplitude on F_0, 2F_0 and 3F_0 of each frame. Next, we reconstruct the FFT of a frame, where all values are zeros except for F_0, 2F_0 and 3F_0. Finally, the FFT is converted to signal again and summed up with previous signal with overlap-and-add.
-* 
+
 * hybrid method: Directly sum up the FFT of sample-based method and procedural method. Finally, the FFT is converted to signal again and summed up with previous signal with overlap-and-add.
 
 ## Results
 
 ### Sample-based method
 
-<iframe width="100%" height="300" scrilling="no" frameborder="no" allow="autoplay" src="https://user-images.githubusercontent.com/30238824/162547563-9a8f9688-6d99-456f-9af9-daf944b1fb77.mp4"></iframe>
+results/idlenoise.mp4
 
 
 
