@@ -54,6 +54,3 @@ And the spectrogram of the hybrid engine sound and the orignal engine sound are:
 
 ![](results/hybrid.png)
 
-## Conclusion
-
-By comparing these engine sounds, we can notice that the engine sound from sample-based method does not contain the 
