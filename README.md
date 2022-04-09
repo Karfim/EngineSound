@@ -32,5 +32,5 @@ https://user-images.githubusercontent.com/30238824/162548638-6bfb55b3-7091-4a1b-
 
 And the spectrogram of the sample-based engine sound and the orignal engine sound are: 
 
-![](results/sample_based.pdf)
+![](results/sample_based.png)
 
