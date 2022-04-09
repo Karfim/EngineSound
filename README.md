@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/30238824/162549919-d95b1d52-a6be-4b7c-
 
 And the spectrogram of the procedural engine sound and the orignal engine sound are: 
 
-![](results/procedural.png)
+![](results/procedure.png)
 
 ### Hybrid method
 
