@@ -14,7 +14,9 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 
 ## Results
 
-The original engine sound is: (can also be found at results/orignal.wav)
+All sound files can be found in results/. (The github markdown can only play videos so that we convert all wave files to .mp4.)
+
+The original engine sound is: 
 
 https://user-images.githubusercontent.com/30238824/162548763-8d4d3847-cf96-4a42-b6a3-1464cdf6fa24.mp4
 
