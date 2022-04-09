@@ -20,8 +20,6 @@ The original engine sound is:
 
 https://user-images.githubusercontent.com/30238824/162548763-8d4d3847-cf96-4a42-b6a3-1464cdf6fa24.mp4
 
-The spectrogram of the orignal engine sound is: 
-
 ### Sample-based method
 
 First, this is the idle engine sound that we used for sample-based method: 
@@ -32,6 +30,7 @@ By pitch-shifting this signal and applying the griffin-lim overlap-and-add, we c
 
 https://user-images.githubusercontent.com/30238824/162548638-6bfb55b3-7091-4a1b-9fb7-4c810b473851.mp4
 
-And the spectrogram of the sample-based engine sound is: 
+And the spectrogram of the sample-based engine sound and the orignal engine sound are: 
+
 
 
