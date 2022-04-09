@@ -16,8 +16,7 @@ Our method includes a sample-based method, a procedural method, and a hybrid met
 
 ### Sample-based method
 
-results/idlenoise.mp4
-
+https://github.com/Karfim/EngineSound/blob/main/results/idlenoise.mp4
 
 
 
